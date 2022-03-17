@@ -150,7 +150,7 @@ class App extends Component {
         <div className="txn-table">
           <div className="txn-header txn-row">
             <div className="txn-data">Room Number</div>
-            <div className="txn-data">Occupation</div>
+            <div className="txn-data">Room</div>
             <div className="txn-data">Customer Name</div>
             <div className="txn-data">Phone number</div>
             <div className="txn-data">Email</div>
